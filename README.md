@@ -1,2 +1,2 @@
-# optimize-chicago-public-transportation-data-streaming-project
+# Data Streaming Project: Optimize Chicago Public Transportation
  
